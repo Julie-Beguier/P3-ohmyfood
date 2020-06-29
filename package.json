@@ -1,0 +1,19 @@
+{
+  "name": "p3-ohmyfood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/style.scss:./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julie-Beguier/P3_OhMyFood.git"
+  },
+  "author": "julie beguier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julie-Beguier/P3_OhMyFood/issues"
+  },
+  "homepage": "https://github.com/Julie-Beguier/P3_OhMyFood#readme"
+}
